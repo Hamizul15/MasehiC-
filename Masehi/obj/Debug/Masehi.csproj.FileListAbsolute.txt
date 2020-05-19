@@ -1,0 +1,14 @@
+D:\Learning\Program\Task\Masehi\Masehi\obj\Debug\Masehi.csprojAssemblyReference.cache
+D:\Learning\Program\Task\Masehi\Masehi\obj\Debug\Masehi.csproj.CoreCompileInputs.cache
+D:\Learning\Program\Task\Masehi\Masehi\bin\Debug\Masehi.exe.config
+D:\Learning\Program\Task\Masehi\Masehi\bin\Debug\Masehi.exe
+D:\Learning\Program\Task\Masehi\Masehi\bin\Debug\Masehi.pdb
+D:\Learning\Program\Task\Masehi\Masehi\obj\Debug\Masehi.exe
+D:\Learning\Program\Task\Masehi\Masehi\obj\Debug\Masehi.pdb
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\bin\Debug\Masehi.exe.config
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\bin\Debug\Masehi.exe
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\bin\Debug\Masehi.pdb
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\obj\Debug\Masehi.csprojAssemblyReference.cache
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\obj\Debug\Masehi.csproj.CoreCompileInputs.cache
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\obj\Debug\Masehi.exe
+D:\Learning\Program-Visual Studio 2017\Task\Masehi\Masehi\obj\Debug\Masehi.pdb
